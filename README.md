@@ -1,6 +1,9 @@
 # Hi, I'm Roshni ! 👋
 
-Welcome to my GitHub profile! I’m a passionate **AI and Data Science** student with a strong interest in machine learning, web development, and software engineering. I enjoy solving real-world problems using technology and have gained hands-on experience through diverse projects and internships.
+Welcome to my corner of the digital universe, where **AI** meets **innovation** and **data science** fuels boundless curiosity. As a B.Tech student specializing in AI and Data Science, I’ve had the privilege of exploring the fascinating intersection of **technology** and **problem-solving**. My journey is driven by a passion for turning complex challenges into elegant solutions, whether through machine learning, web development, or creative coding.
+With each project, I aim to push the boundaries of what’s possible, whether it’s analyzing human movement, enhancing healthcare diagnostics, or contributing to open-source communities. Every line of code is a step toward building something that can impact the world.
+Let’s collaborate, explore, and create the future together!
+
 
 ## 🏆 Achievements
 
