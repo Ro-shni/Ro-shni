@@ -41,7 +41,7 @@ Let’s collaborate, explore, and create the future together!
 
 - LinkedIn: ["Roshni Nekkanti"](https://www.linkedin.com/in/roshni-nekkanti-24454224b/)
 - GitHub: ["Ro-shni"](https://github.com/Ro-shni)
-- Portfolio: ["ro-shni.github.io/ROSHNI_NEKKANTI.io"](https://ro-shni.github.io/ROSHNI-NEKKANTI.io/)
+- Portfolio: ["ro-shni.github.io/ROSHNI_NEKKANTI.io"](https://ro-shni.github.io/ROSHNI_NEKKANTI.io/)
 
 
 <!--
